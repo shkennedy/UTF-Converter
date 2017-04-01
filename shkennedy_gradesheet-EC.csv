@@ -1,0 +1,28 @@
+Testcase,Points,Notes,Description
+LINUX TEST CASES
+"ASCII.txt: Program successfully converted UTF-16LE to UTF-8 - 2.5
+",P
+"Nonsurrogates.txt: Program successfully converted UTF-16LE to UTF-8 - 2.5
+",P
+"Mixed.txt: Program successfully converted UTF-16LE to UTF-8 - 2.5
+",P
+"ASCII.txt: Program successfully converted UTF-16BE to UTF-8 - 2.5
+",P
+"Nonsurrogates.txt: Program successfully converted UTF-16BE to UTF-8 - 2.5
+",P
+"Mixed.txt: Program successfully converted UTF-16BE to UTF-8 - 2.5
+",P
+SPARKY TEST CASES
+"ASCII.txt: Program successfully converted UTF-16LE to UTF-8 - 2.5
+",P
+"Nonsurrogates.txt: Program successfully converted UTF-16LE to UTF-8 - 2.5
+",P
+"Mixed.txt: Program successfully converted UTF-16LE to UTF-8 - 2.5
+",P
+"ASCII.txt: Program successfully converted UTF-16BE to UTF-8 - 2.5
+",P
+"Nonsurrogates.txt: Program successfully converted UTF-16BE to UTF-8 - 2.5
+",P
+"Mixed.txt: Program successfully converted UTF-16BE to UTF-8 - 2.5
+",P
+Total Grade:,EC Successful,,
